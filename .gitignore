@@ -1,0 +1,8 @@
+# Local temporary files and editor settings
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.tmp
+__pycache__/
